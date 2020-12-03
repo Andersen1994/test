@@ -4,5 +4,6 @@ def main():
 	print("main change2")
 	print("branch 2")
 	print("patch issue 1)
+	print("patch issue 2)
 if __name__ == '__main__':
 	main()
