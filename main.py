@@ -9,5 +9,6 @@ def main():
 	
 	print("add feature2)
 	print("normal update")
+	print("normal update2")
 if __name__ == '__main__':
 	main()
