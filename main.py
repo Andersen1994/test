@@ -8,5 +8,6 @@ def main():
 	print("patch issue 2)
 	
 	print("add feature2)
+	print("normal update")
 if __name__ == '__main__':
 	main()
