@@ -12,6 +12,7 @@ def main():
 	print("normal update")
 	
 	print("experiment ")
+	print("exp1")
 
 if __name__ == '__main__':
 	main()
